@@ -113,7 +113,7 @@
     flex-direction: column;
     gap: 5%;
      position: relative;
-    bottom: 5%;
+    bottom: 4%;
   }
   .content-box-child{
     width: 100%;
@@ -221,10 +221,10 @@
 
   .info-container-box{
     width: 88vw;
-    height: 45vh;
+    height: 46vh;
     /* border: 1px solid white; */
     position: absolute;
-    bottom: 11%;
+    bottom: 14%;
     display: flex;
     align-items: center;
     justify-content: center;
