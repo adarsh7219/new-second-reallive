@@ -555,6 +555,9 @@
     .font-school{
       font-size: 14px !important;
     }
+      .content-text-container{
+      bottom: 4%;
+    }
   }
   @media(max-width:1440px){
     .eliment-box-multi{
@@ -607,6 +610,10 @@
     .font-school{
       font-size: 17px !important;
     }
+         .content-text-container{
+      bottom: 4%;
+    }
+    
   }
   @media(max-width:1368px){
     .eliment-box-multi{
@@ -658,6 +665,9 @@
     }
     .font-school{
       font-size: 14px !important;
+    }
+         .content-text-container{
+      bottom: 4%;
     }
   }
   @media(max-width:1280px){
@@ -711,6 +721,9 @@
     .font-school{
       font-size: 15px !important;
     }
+       .content-text-container{
+      bottom: 5%;
+    }
   }
   @media(max-width:1198px){
     .eliment-box-multi{
@@ -762,6 +775,9 @@
     }
     .font-school{
       font-size: 14px !important;
+    }
+       .content-text-container{
+      bottom: 6%;
     }
   }
   @media(max-width:1180px){
@@ -816,6 +832,9 @@
     .font-school{
       font-size: 14px !important;
     }
+       .content-text-container{
+      bottom: 6%;
+    }
   }
   @media(max-width:1104px){
     .eliment-box-multi{
@@ -868,6 +887,15 @@
     .font-school{
       font-size: 14px !important;
     }
+      
+    .content-text-container{
+      bottom: 6%;
+    }
+    .info-container-box{
+      width: 86vw;
+      height: 45vh;
+    }
+
   }
   @media(max-width:1024px){
     .eliment-box-multi{
@@ -919,6 +947,10 @@
     }
     .font-school{
       font-size: 14px !important;
+    }
+       .info-container-box{
+      width: 86vw;
+      height: 45vh;
     }
   }
   @media(max-width:998px){
@@ -972,6 +1004,14 @@
     .font-school{
       font-size: 13px !important;
     }
+      .content-text-container{
+      bottom: 6%;
+    }
+
+    .info-container-box{
+      width: 86vw;
+      height: 45vh;
+    }
   }
   @media(max-width:768px){
     .eliment-box-multi{
@@ -1023,5 +1063,9 @@
     }
     .font-school{
       font-size: 12px !important;
+    }
+       .info-container-box{
+      width: 86vw;
+      height: 45vh;
     }
   }
